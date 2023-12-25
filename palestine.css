@@ -1,0 +1,68 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+}
+
+h1 {
+    text-align: center;
+    color: #fff;
+    border-radius: 10px;
+    font-family: 'Amiri Quran', serif;
+    font-size: 60px;
+}
+
+section {
+    margin: 20px 0;
+    padding: 20px;
+    background-color: saddlebrown;
+    border-radius: 10px;
+}
+
+h2 {
+    color: white;
+    border-radius: 10px;
+
+}
+
+h3 {
+
+    color: black;
+    border-radius: 10px;
+}
+
+h3:hover {
+    color: white;
+}
+
+p {
+    line-height: 1.6;
+    border-radius: 10px;
+
+}
+
+img {
+    max-width: 100%;
+    height: auto;
+    display: flexbox;
+    margin: 20px auto;
+    border: 1px solid white;
+}
+
+
+body {
+    margin: 0;
+    padding: 0;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: #222;
+}
+
+video {
+    width: 80%;
+    max-width: 800px;
+    border: 2px solid #fff;
+    border-radius: 8px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.5);
+}
